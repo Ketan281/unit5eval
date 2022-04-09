@@ -1,0 +1,15 @@
+
+.Navbar{
+    height: 80px;
+    margin:10px;
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btn{
+    border: 1px solid;
+    border-radius: 5px;
+    margin: 40px;
+   
+}
